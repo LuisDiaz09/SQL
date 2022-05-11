@@ -1,5 +1,8 @@
 # SQL
 
+## A continuación se muestran las capturas de las consultas a la base de datos:
+
+>
 > ## Creando mi primer base de datos
 > Creando tabla para la base de datos:
 > 
